@@ -1,0 +1,8 @@
+tqdm
+matplotlib
+langchain==0.2.2
+rouge==1.0.1
+seaborn==0.13.2
+torch==2.4.0
+vllm==0.5.5
+transformers==4.48.2
