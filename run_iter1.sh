@@ -1,4 +1,9 @@
 # review seed data and generate iter1 training data
+mkdir -p dataset/review
+mkdir -p dataset/sft
+mkdir -p dataset/dpo
+mkdir -p dataset/gen
+
 python src/gen_iter1.py \
     --cuda_devices "0,1" \
     --worker_method "spawn" \
