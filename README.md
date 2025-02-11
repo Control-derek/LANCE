@@ -125,5 +125,4 @@ This work would not have been possible without the support of the following open
 
 We deeply appreciate the incredible work done by the developers behind these projects!
 
-Additionally, we extend our heartfelt thanks to **Tianhao Wu** , who generously contributed to creating Figure 1 for this paper. We also thank all other collaborators for their valuable support and contributions.
-
+Additionally, we extend our heartfelt thanks to **Tianhao Wu**, who generously contributed to creating Figure 1 for this paper. We also thank all other collaborators for their valuable support and contributions.
